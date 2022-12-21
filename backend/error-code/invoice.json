@@ -1,0 +1,12 @@
+{
+  "en": {
+    "IN_S001": "Product list retrieved successfully",
+    "IN_S002": "Product details saved successfully",
+    "IN_S004": "Product details retrieved successfully"
+  },
+  "ms": {
+    "IN_S001": "Product list retrieved successfully",
+    "IN_S002": "Product details saved successfully",
+    "IN_S004": "Product details retrieved successfully"
+  }
+}
